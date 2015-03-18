@@ -21,4 +21,4 @@
 
 /* layout */
 #main #wrap_container{min-width:1105px;}
-.layer-slb{position:fixed; left:0; top:0; width:100%; height:100%; text-indent:-5000px; background:#fff; opacity:0.8; filter:alpha(opacity=80); z-index:9002;}
+.layer-slb{position:fixed; left:0; top:0; width:100%; height:100%; text-indent:-5000px; background:#fff; opacity:0.8; filter:alpha(opacity=80); z-index:90df02;}
